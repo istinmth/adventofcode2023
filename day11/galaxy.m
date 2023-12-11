@@ -1,4 +1,3 @@
-day = 11;
 inputPath = "galaxy.txt";
 input = Characters /@ Import[inputPath, "List"];
 
