@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "day2.sln"
+    "dotnet.defaultSolution": "day2.sln",
+    "python.analysis.typeCheckingMode": "basic"
 }
